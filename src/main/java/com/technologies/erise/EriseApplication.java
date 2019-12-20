@@ -1,4 +1,4 @@
-package com.technologies.erise.erise;
+package com.technologies.erise;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
